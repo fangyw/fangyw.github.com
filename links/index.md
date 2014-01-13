@@ -8,6 +8,7 @@ comments: no
 - [Matrix 67](http://www.matrix67.com/blog/)
 - [酷壳](http://coolshell.cn/)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
+- [阳志平](http://www.yangzhiping.com)
 - [tornadomeet](http://www.cnblogs.com/tornadomeet/)
 - [兴胜](http://rangerblog.sinaapp.com/)
 - [宝贵](http://lloyd.sinaapp.com/)
