@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+author: fangyw
+pygments: true
+paginate: 16
+url: http://fangyw.github.com

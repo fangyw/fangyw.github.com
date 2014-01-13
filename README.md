@@ -1,2 +1,2 @@
-fangyw.github.com
-=================
+- My Blog based kejinlu.github.com  
+Thanks for ellochen
